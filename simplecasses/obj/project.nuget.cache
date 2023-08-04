@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lps1cjxH7kbNT/VneGElvWNK8dcgEXvezXag5QbSfgoE23Uhxq7oy5sGXoH1w7zk0IkcXkeI/ITpmXQ5CCwHSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FAMILIA CARDOSO\\Desktop\\c#\\simplecasses\\simplecasses\\simplecasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FAMILIA CARDOSO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\FAMILIA CARDOSO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\FAMILIA CARDOSO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\FAMILIA CARDOSO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
